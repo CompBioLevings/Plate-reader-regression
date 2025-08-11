@@ -1,9 +1,9 @@
 #/usr/bin/env python3
 # -*- coding: utf-8 -*-
 '''
-Title: MFI-pos-hit-regression.py
+Title: MFI-hit-regression.py
 Author: Daniel Levings
-Date: 2022-10-02
+Date: 2025-08-11
 
 The purpose of this script is to read in a folder of mean fluorescence intensity
 (MFI) data from a plate reader assay which is used to check for fluorescence
